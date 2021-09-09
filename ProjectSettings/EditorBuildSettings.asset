@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/CombustionProjectOpeningScene (choose model).unity
+    guid: 22b5472797e555e4da103f88cffbce9e
+  - enabled: 1
+    path: Assets/Scenes/CombustionScene4.0(IN GAME TUTORIAL).unity
+    guid: 4c9098cbaa6fe7647af5ff59e38a59e6
+  - enabled: 0
+    path: Assets/Scenes/CombustionScene4.1(CH4RxnWithO2).unity
+    guid: 14aee916eb0b6ec4e80ff9d649c5d71c
+  - enabled: 0
+    path: Assets/Scenes/CombustionScene4.2(C3H8RxnWithO2).unity
+    guid: db89f14e18f83674782cdd463797d4b5
+  - enabled: 0
+    path: Assets/Scenes/CombustionScene4.3(CH4Rxn_KJperMole).unity
+    guid: d7b904fc41d688b45b7cdbaa97267888
+  - enabled: 0
+    path: Assets/Scenes/CombustionScene4.4(C3H8Rxn_KJperMole).unity
+    guid: b33473c1deb537744bf33a2d58a0eb9b
+  - enabled: 0
+    path: Assets/Scenes/CombustionScene4.5(H2plusO2).unity
+    guid: 7fd05a2bc59d7134abbe0180d9bc734c
+  - enabled: 1
+    path: Assets/Scenes/Rockets2.0.unity
+    guid: fa03d46b048cdbc498b5ed802c59da42
+  m_configObjects: {}
